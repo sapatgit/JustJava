@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="name">নাম:</string>
+    <string name="quantity">পরিমাণ:</string>
+    <string name="order">আদেশ:</string>
+    <string name="d_qty">1</string>
+    <string name="q_add">+</string>
+    <string name="q_sub">-</string>
+    <string name="whipped_cream">ক্রিম</string>
+    <string name="chocolate">চকলেট</string>
+    <string name="anonymous">নামবিহীন</string>
+    <string name="max_cups">কফি কাপ সর্বোচ্চ সংখ্যা 100</string>
+    <string name="min_cups">কফি কাপ এর ন্যূনতম সংখ্যা 1</string>
+    <string name="Osubject">Just Java order for </string>
+    <string name="OhasWhippedCream">ক্রিম যোগ করবেন?</string>
+    <string name="OhasChocolate">চকলেট যোগ করবেন?</string>
+    <string name="Ototal">"মোট: "</string>
+    <string name="Oname">নাম:</string>
+    <string name="Oquantity">পরিমাণ:</string>
+    <string name="Othanks">ধন্যবাদ!</string>
+    <string name="toppings">টপিং</string>
+</resources>
